@@ -1,4 +1,6 @@
 baseURL: https://evaluargit.github.io/
+relativeURLs: true
+canonifyURLs: true
 theme: hugo-apero
 languageCode: en
 title: E-valuar SAS

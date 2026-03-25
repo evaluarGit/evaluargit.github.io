@@ -2,109 +2,109 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on E-valuar SAS</title>
-    <link>https://www.example.org/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on E-valuar SAS</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>E-Valuar sas 2026 | Contenido bajo licencia CC BY-NC-SA 4.0.</copyright>
     <lastBuildDate>Mon, 23 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cultura</title>
-      <link>https://www.example.org/categories/cultura/</link>
+      <link>/categories/cultura/</link>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.example.org/categories/cultura/</guid>
+      <guid>/categories/cultura/</guid>
       <description></description>
     </item>
     <item>
       <title>Monitoreo</title>
-      <link>https://www.example.org/categories/monitoreo/</link>
+      <link>/categories/monitoreo/</link>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.example.org/categories/monitoreo/</guid>
+      <guid>/categories/monitoreo/</guid>
       <description></description>
     </item>
     <item>
       <title>Sistematización</title>
-      <link>https://www.example.org/categories/sistematizaci%C3%B3n/</link>
+      <link>/categories/sistematizaci%C3%B3n/</link>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.example.org/categories/sistematizaci%C3%B3n/</guid>
+      <guid>/categories/sistematizaci%C3%B3n/</guid>
       <description></description>
     </item>
     <item>
       <title>Evaluación De Impacto</title>
-      <link>https://www.example.org/categories/evaluaci%C3%B3n-de-impacto/</link>
+      <link>/categories/evaluaci%C3%B3n-de-impacto/</link>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.example.org/categories/evaluaci%C3%B3n-de-impacto/</guid>
+      <guid>/categories/evaluaci%C3%B3n-de-impacto/</guid>
       <description></description>
     </item>
     <item>
       <title>Salud</title>
-      <link>https://www.example.org/categories/salud/</link>
+      <link>/categories/salud/</link>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.example.org/categories/salud/</guid>
+      <guid>/categories/salud/</guid>
       <description></description>
     </item>
     <item>
       <title>Educación</title>
-      <link>https://www.example.org/categories/educaci%C3%B3n/</link>
+      <link>/categories/educaci%C3%B3n/</link>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.example.org/categories/educaci%C3%B3n/</guid>
+      <guid>/categories/educaci%C3%B3n/</guid>
       <description></description>
     </item>
     <item>
       <title>Desarrollo Económico</title>
-      <link>https://www.example.org/categories/desarrollo-econ%C3%B3mico/</link>
+      <link>/categories/desarrollo-econ%C3%B3mico/</link>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.example.org/categories/desarrollo-econ%C3%B3mico/</guid>
+      <guid>/categories/desarrollo-econ%C3%B3mico/</guid>
       <description></description>
     </item>
     <item>
       <title>Energía</title>
-      <link>https://www.example.org/categories/energ%C3%ADa/</link>
+      <link>/categories/energ%C3%ADa/</link>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.example.org/categories/energ%C3%ADa/</guid>
+      <guid>/categories/energ%C3%ADa/</guid>
       <description></description>
     </item>
     <item>
       <title>Internacional</title>
-      <link>https://www.example.org/categories/internacional/</link>
+      <link>/categories/internacional/</link>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.example.org/categories/internacional/</guid>
+      <guid>/categories/internacional/</guid>
       <description></description>
     </item>
     <item>
       <title>Workshop</title>
-      <link>https://www.example.org/categories/workshop/</link>
+      <link>/categories/workshop/</link>
       <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.example.org/categories/workshop/</guid>
+      <guid>/categories/workshop/</guid>
       <description></description>
     </item>
     <item>
       <title>Meetup</title>
-      <link>https://www.example.org/categories/meetup/</link>
+      <link>/categories/meetup/</link>
       <pubDate>Fri, 01 Jan 2021 14:15:59 -0600</pubDate>
-      <guid>https://www.example.org/categories/meetup/</guid>
+      <guid>/categories/meetup/</guid>
       <description></description>
     </item>
     <item>
       <title>Package</title>
-      <link>https://www.example.org/categories/package/</link>
+      <link>/categories/package/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.example.org/categories/package/</guid>
+      <guid>/categories/package/</guid>
       <description></description>
     </item>
     <item>
       <title>R</title>
-      <link>https://www.example.org/categories/r/</link>
+      <link>/categories/r/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.example.org/categories/r/</guid>
+      <guid>/categories/r/</guid>
       <description></description>
     </item>
     <item>
       <title>Theme Features</title>
-      <link>https://www.example.org/categories/theme-features/</link>
+      <link>/categories/theme-features/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.example.org/categories/theme-features/</guid>
+      <guid>/categories/theme-features/</guid>
       <description></description>
     </item>
   </channel>

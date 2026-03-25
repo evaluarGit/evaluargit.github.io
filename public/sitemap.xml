@@ -2,148 +2,148 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.example.org/collection/day02/01-netlify/</loc>
+    <loc>/collection/day02/01-netlify/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/collection/day01/01-github/</loc>
+    <loc>/collection/day01/01-github/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/collection/prework/</loc>
+    <loc>/collection/prework/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/collection/day01/</loc>
+    <loc>/collection/day01/</loc>
     <lastmod>2021-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/collection/day01/02-postcards/</loc>
+    <loc>/collection/day01/02-postcards/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/collection/day02/02-blogdown/</loc>
+    <loc>/collection/day02/02-blogdown/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/collection/day02/</loc>
+    <loc>/collection/day02/</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/collection/day01/03-distill/</loc>
+    <loc>/collection/day01/03-distill/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/collection/day02/03-blogdown/</loc>
+    <loc>/collection/day02/03-blogdown/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2026-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/categories/cultura/</loc>
+    <loc>/categories/cultura/</loc>
     <lastmod>2026-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/blog/cocrea/</loc>
+    <loc>/blog/cocrea/</loc>
     <lastmod>2026-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/</loc>
+    <loc>/</loc>
     <lastmod>2026-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/categories/monitoreo/</loc>
+    <loc>/categories/monitoreo/</loc>
     <lastmod>2026-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2026-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/categories/sistematizaci%C3%B3n/</loc>
+    <loc>/categories/sistematizaci%C3%B3n/</loc>
     <lastmod>2026-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/categories/evaluaci%C3%B3n-de-impacto/</loc>
+    <loc>/categories/evaluaci%C3%B3n-de-impacto/</loc>
     <lastmod>2026-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/categories/salud/</loc>
+    <loc>/categories/salud/</loc>
     <lastmod>2026-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/blog/bogota_bio/</loc>
+    <loc>/blog/bogota_bio/</loc>
     <lastmod>2026-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/categories/educaci%C3%B3n/</loc>
+    <loc>/categories/educaci%C3%B3n/</loc>
     <lastmod>2026-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/blog/atpi_el_salvador/</loc>
+    <loc>/blog/atpi_el_salvador/</loc>
     <lastmod>2026-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/categories/desarrollo-econ%C3%B3mico/</loc>
+    <loc>/categories/desarrollo-econ%C3%B3mico/</loc>
     <lastmod>2026-03-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/categories/energ%C3%ADa/</loc>
+    <loc>/categories/energ%C3%ADa/</loc>
     <lastmod>2026-03-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/categories/internacional/</loc>
+    <loc>/categories/internacional/</loc>
     <lastmod>2026-03-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/blog/pacific_gx/</loc>
+    <loc>/blog/pacific_gx/</loc>
     <lastmod>2026-03-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/collection/</loc>
+    <loc>/collection/</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/talk/campfire/</loc>
+    <loc>/talk/campfire/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/talk/</loc>
+    <loc>/talk/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/categories/workshop/</loc>
+    <loc>/categories/workshop/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/talk/second-seedling/</loc>
+    <loc>/talk/second-seedling/</loc>
     <lastmod>2021-01-01T14:15:59-06:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/categories/meetup/</loc>
+    <loc>/categories/meetup/</loc>
     <lastmod>2021-01-01T14:15:59-06:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/talk/seedling/</loc>
+    <loc>/talk/seedling/</loc>
     <lastmod>2020-01-13T14:15:59-06:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/project/</loc>
+    <loc>/project/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/tags/hugo-site/</loc>
+    <loc>/tags/hugo-site/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/categories/package/</loc>
+    <loc>/categories/package/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/categories/r/</loc>
+    <loc>/categories/r/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/project/giraffes/</loc>
+    <loc>/project/giraffes/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/categories/theme-features/</loc>
+    <loc>/categories/theme-features/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/project/penguins/</loc>
+    <loc>/project/penguins/</loc>
     <lastmod>2019-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/project/bakeoff/</loc>
+    <loc>/project/bakeoff/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/contact/</loc>
+    <loc>/contact/</loc>
     <lastmod>2019-02-25T13:38:41-06:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/form/</loc>
+    <loc>/form/</loc>
     <lastmod>2019-02-25T13:38:41-06:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/elements/</loc>
+    <loc>/elements/</loc>
     <lastmod>2019-02-18T12:27:33-06:00</lastmod>
   </url><url>
-    <loc>https://www.example.org/about/</loc>
+    <loc>/about/</loc>
   </url><url>
-    <loc>https://www.example.org/areas/</loc>
+    <loc>/areas/</loc>
   </url><url>
-    <loc>https://www.example.org/contributors/</loc>
+    <loc>/contributors/</loc>
   </url><url>
-    <loc>https://www.example.org/license/</loc>
+    <loc>/license/</loc>
   </url><url>
-    <loc>https://www.example.org/series/</loc>
+    <loc>/series/</loc>
   </url><url>
-    <loc>https://www.example.org/cursos/</loc>
+    <loc>/cursos/</loc>
   </url>
 </urlset>

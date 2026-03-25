@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Salud on E-valuar SAS</title>
-    <link>https://www.example.org/categories/salud/</link>
+    <link>/categories/salud/</link>
     <description>Recent content in Salud on E-valuar SAS</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>E-Valuar sas 2026 | Contenido bajo licencia CC BY-NC-SA 4.0.</copyright>
     <lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.example.org/categories/salud/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/salud/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SROI BogotáBio</title>
-      <link>https://www.example.org/blog/bogota_bio/</link>
+      <link>/blog/bogota_bio/</link>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.example.org/blog/bogota_bio/</guid>
+      <guid>/blog/bogota_bio/</guid>
       <description>&lt;p&gt;Entre 2025 y 2026, en alianza con &#xA;&lt;a href=&#34;https://dioramagroup.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Diorama Group&lt;/a&gt;, estimamos el &lt;strong&gt;Retorno Social de la Inversión (SROI)&lt;/strong&gt; de &#xA;&lt;a href=&#34;https://www.agenciaatenea.gov.co/gerencia-ctei-ciencia-tecnologia-e-innovacion/bogotabio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BogotáBio&lt;/a&gt;, una iniciativa público-privada entre la Alcaldía de Bogotá y Sinovac cuyo objetivo es desarrollar capacidades industriales y tecnológicas en el sector biotecnológico colombiano, incrementando la soberanía sanitaria del país y mejorando su capacidad de respuesta ante emergencias epidemiológicas.&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h2 id=&#34;una-metodología-que-trasciende-la-rentabilidad-financiera&#34;&gt;Una metodología que trasciende la rentabilidad financiera&#xA;  &lt;a href=&#34;#una-metodolog%c3%ada-que-trasciende-la-rentabilidad-financiera&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;El SROI es un marco de evaluación que permite identificar, medir y monetizar los beneficios sociales, económicos y ambientales generados por un proyecto, más allá de sus retornos financieros directos. Para su aplicación en BogotáBio, partimos de la construcción participativa de una &lt;strong&gt;teoría de cambio&lt;/strong&gt; que articuló cuatro pilares estratégicos sobre los cuales se sostiene la soberanía sanitaria:&lt;/p&gt;</description>
     </item>
   </channel>

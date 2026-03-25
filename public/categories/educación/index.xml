@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Educación on E-valuar SAS</title>
-    <link>https://www.example.org/categories/educaci%C3%B3n/</link>
+    <link>/categories/educaci%C3%B3n/</link>
     <description>Recent content in Educación on E-valuar SAS</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>E-Valuar sas 2026 | Contenido bajo licencia CC BY-NC-SA 4.0.</copyright>
     <lastBuildDate>Thu, 19 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.example.org/categories/educaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/educaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Evaluación de los Círculos de Familia en El Salvador</title>
-      <link>https://www.example.org/blog/atpi_el_salvador/</link>
+      <link>/blog/atpi_el_salvador/</link>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.example.org/blog/atpi_el_salvador/</guid>
+      <guid>/blog/atpi_el_salvador/</guid>
       <description>&lt;p&gt;Junto a &#xA;&lt;a href=&#34;https://www.isegoria.co/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISEGORÍA&lt;/a&gt; y el Banco Interamericano de Desarrollo, realizamos una evaluación de impacto de los &lt;strong&gt;Círculos de Familia&lt;/strong&gt; para la Vía Familiar Comunitaria en El Salvador, una iniciativa de atención a la primera infancia conducida por el &#xA;&lt;a href=&#34;https://www.mined.gob.sv/primera-infancia/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ministerio de Educación de El Salvador&lt;/a&gt; y el &#xA;&lt;a href=&#34;https://icj.gob.sv/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Instituto Crecer Juntos&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Los Círculos de Familia son una modalidad de apoyo parental que busca fortalecer las prácticas de crianza, cuidado y estimulación de madres, padres y cuidadores de niños y niñas entre los 2 meses y los 4 años de edad, a través de sesiones semanales dinamizadas por Asistentes Técnicos de Primera Infancia (ATPI) en espacios comunitarios.&lt;/p&gt;</description>
     </item>
   </channel>
