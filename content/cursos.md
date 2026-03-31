@@ -69,7 +69,6 @@ title: TidyveRso - Cursos de R
       <li>Intervalos de confianza</li>
       <li>Pruebas de hipótesis de diferencia de medias</li>
       <li>Pruebas de hipótesis de diferencia de proporciones</li>
-      <li>Prueba ANOVA</li>
     </ul>
     <h5 style="margin-bottom: 0.5rem; font-size: 1rem;">Modulo 5: Visualización de datos</h5>
     <ul style="font-size: 0.9rem; padding-left: 1.2rem;">
@@ -97,7 +96,7 @@ title: TidyveRso - Cursos de R
   </ul>
 </div>
 
-<img src="img/calendario.png"  alt="Calendario Clases">
+<img src="static/img/calendario.png"  alt="Calendario Clases">
 
 <!-- Contacto -->
 <div style="text-align: center; margin-top: 2.5rem; padding: 1.5rem; background: #f0f4f8; border-radius: 12px;">
