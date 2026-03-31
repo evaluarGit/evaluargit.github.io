@@ -76,65 +76,16 @@ title: TidyveRso - Cursos de R
       <li>Utilización de <em>ggplot2</em> para realizar visualizaciones personalizadas con rigor profesional.</li>
     </ul>
   </div>
-  
-  <div style="background: #e9ecef; border-left: 4px solid #2c7da0; padding: 1rem 1.5rem; margin: 1.5rem 0; border-radius: 0 8px 8px 0;">
-    <h3 style="font-size: 1.05rem; line-height: 1.6;">Fechas y Horarios</h3>
-    <p style="font-size: 1.05rem; line-height: 1.6;">Para garantizar una adecuada atención a cada uno de los participantes, el cupo máximo por grupo es de 15 personas, pudiendo elegir entre lunes, miércoles o sábado.<br><br>Los horarios para realizar las clases son:</p>
-    <ul style="font-size: 0.9rem; padding-left: 1.2rem;">
-      <li>Lunes y Miércoles 19:00 a 22:00 horas Bogotá o 18:00 a 21:00 horas CDMX</li>
-      <li>Sábado 09:00 a 12:00 horas Bogotá o 08:00 a 11:00 horas CDMX</li>
-    </ul>
-  </div>
-  
-  
-  <!-- Evaluación -->
-  <div style="background: #f9f9f9; border-radius: 12px; padding: 1.5rem; box-shadow: 0 2px 8px rgba(0,0,0,0.05); border-top: 4px solid #2a9d8f;">
-    <h3 style="text-align: center; margin-top: 0.5rem;">Nivel 2</h3>
-    <p style="font-size: 0.95rem; line-height: 1.5;">Para quienes ya dominan los fundamentos de R y desean mejorar la eficiencia de sus scripts mediante la creación de funciones personalizadas, el uso de estructuras de control y la aplicación de técnicas de programación funcional.</p>
-    <h4 style="margin-bottom: 0.5rem; font-size: 1.2rem;">Modulos:</h4>
-    <h5 style="margin-bottom: 0.5rem; font-size: 1rem;">Módulo 1: Repaso de R, creación de funciones y procesos iterados</h5>
-    <ul style="font-size: 0.9rem; padding-left: 1.2rem;">
-      <li>Como crear tus propias funciones</li>
-      <li>Utilización de las estructuras de control <em>if - else</em></li>
-      <li>Procesos iterados con <em>for</em> y <em>purrr</em></li>
-    </ul>
-    <h5 style="margin-bottom: 0.5rem; font-size: 1rem;">Modulo 2: Modelos lineales</h5>
-    <ul style="font-size: 0.9rem; padding-left: 1.2rem;">
-      <li>Regresión múltiple y logística</li>
-      <li>Verificación de supuestos de modelos lineales</li>
-    </ul>
-    <h5 style="margin-bottom: 0.5rem; font-size: 1rem;">Modulo 3: Análisis de Componentes Principales (ACP)</h5>
-    <ul style="font-size: 0.9rem; padding-left: 1.2rem;">
-      <li>Como realizar un ACP</li>
-      <li>Cálculo de indicadores a partir de ACP</li>
-    </ul>
-    <h5 style="margin-bottom: 0.5rem; font-size: 1rem;">Modulo 4: Visualización avanzado con <em>ggplot2</em></h5>
-    <ul style="font-size: 0.9rem; padding-left: 1.2rem;">
-      <li>Personalización de gráficos</li>
-      <li>Gráficos estadísticos</li>
-      <li>Infografías estáticas</li>
-    </ul>
-    <h5 style="margin-bottom: 0.5rem; font-size: 1rem;">Modulo 5: Infografías y reportes</h5>
-    <ul style="font-size: 0.9rem; padding-left: 1.2rem;">
-      <li>Elementos esenciales de lenguaje <em>Rmarkdown</em></li>
-      <li>Dashboards con Quarto y Shiny</li>
-    </ul>
-    <br>
-    <br>
-    <div style="background: #fef9e6; border-radius: 8px; padding: 0.8rem; margin-top: 1rem; border-left: 3px solid #e9c46a;">
-          <p style="margin: 0; font-size: 0.85rem;"><strong>📋 Requisitos para el Nivel 2:</strong> Conocimientos sólidos del Nivel 1 o experiencia equivalente en manejo de <code>dplyr</code> y <code>ggplot2</code>. Manejo básico de conceptos de estadística descriptiva e inferencial.</p>
-    </div>
-    
-    <div style="background: #e9ecef; border-left: 4px solid #2c7da0; padding: 1rem 1.5rem; margin: 1.5rem 0; border-radius: 0 8px 8px 0;">
-    <h3 style="font-size: 1.05rem; line-height: 1.6;">Fechas y Horarios</h3>
-    <p style="font-size: 1.05rem; line-height: 1.6;">Para garantizar una adecuada atención a cada uno de los participantes, el cupo máximo por grupo es de 15 personas, pudiendo elegir entre lunes, miércoles o sábado.<br><br>Los horarios para realizar las clases son:</p>
-    <ul style="font-size: 0.9rem; padding-left: 1.2rem;">
-      <li>Lunes y Miércoles 19:00 a 22:00 horas Bogotá o 18:00 a 21:00 horas CDMX</li>
-      <li>Sábado 09:00 a 12:00 horas Bogotá o 08:00 a 11:00 horas CDMX</li>
-    </ul>
-    </div>
-    
-  </div>
+</div>
+
+
+<div style="background: #fef9e6; border-left: 4px solid #e9c46a; padding: 1rem 1.5rem; margin: 1.5rem 0; border-radius: 0 8px 8px 0;">
+  <h3 style="font-size: 1.05rem; line-height: 1.6;">Fechas y Horarios</h3>
+  <p style="font-size: 1.05rem; line-height: 1.6;">Para garantizar una adecuada atención a cada uno de los participantes, el cupo máximo por grupo es de 15 personas, pudiendo elegir entre lunes, miércoles o sábado.<br><br>Los horarios para realizar las clases son:</p>
+  <ul style="font-size: 0.9rem; padding-left: 1.2rem;">
+    <li>Lunes y Miércoles 19:00 a 22:00 horas Bogotá o 18:00 a 21:00 horas CDMX</li>
+    <li>Sábado 09:00 a 12:00 horas Bogotá o 08:00 a 11:00 horas CDMX</li>
+  </ul>
 </div>
 
 <!-- Contacto -->
