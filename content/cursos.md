@@ -78,15 +78,26 @@ title: TidyveRso - Cursos de R
   </div>
 </div>
 
-
 <div style="background: #fef9e6; border-left: 4px solid #e9c46a; padding: 1rem 1.5rem; margin: 1.5rem 0; border-radius: 0 8px 8px 0;">
   <h3 style="font-size: 1.05rem; line-height: 1.6;">Fechas y Horarios</h3>
   <p style="font-size: 1.05rem; line-height: 1.6;">Para garantizar una adecuada atención a cada uno de los participantes, el cupo máximo por grupo es de 15 personas, pudiendo elegir entre lunes, miércoles o sábado.<br><br>Los horarios para realizar las clases son:</p>
-  <ul style="font-size: 0.9rem; padding-left: 1.2rem;">
+  <ul style="font-size: 0.9rem; padding-left: 1.6rem;">
     <li>Lunes y Miércoles 19:00 a 22:00 horas Bogotá o 18:00 a 21:00 horas CDMX</li>
     <li>Sábado 09:00 a 12:00 horas Bogotá o 08:00 a 11:00 horas CDMX</li>
   </ul>
 </div>
+
+<div style="background: #fef9e6; border-left: 4px solid #e9c46a; padding: 1rem 1.5rem; margin: 1.5rem 0; border-radius: 0 8px 8px 0;">
+  <h3 style="font-size: 1.05rem; line-height: 1.6;">Inversión</h3>
+  <ul style="font-size: 0.9rem; padding-left: 1.6rem;">
+    <li>$1.200 Pesos Méxicanos</li>
+    <li>$250.000 Pesos Colombianos</li>
+    <li>$70 Dólares*</li>
+    <li>*Si te encuentras fuera de Colombia o México, el valor del curso es de 70 dolares pagando a través de PayPal</li>
+  </ul>
+</div>
+
+<img src="calendario.png"  alt="Calendario Clases">
 
 <!-- Contacto -->
 <div style="text-align: center; margin-top: 2.5rem; padding: 1.5rem; background: #f0f4f8; border-radius: 12px;">
