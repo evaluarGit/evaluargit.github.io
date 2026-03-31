@@ -86,6 +86,8 @@ title: TidyveRso - Cursos de R
   </ul>
 </div>
 
+<img src="/img/calendario.png"  alt="Calendario Clases">
+
 <div style="background: #fef9e6; border-left: 4px solid #e9c46a; padding: 1rem 1.5rem; margin: 1.5rem 0; border-radius: 0 8px 8px 0;">
   <h3 style="font-size: 1.05rem; line-height: 1.6;">Inversión</h3>
   <ul style="font-size: 0.9rem; padding-left: 1.6rem;">
@@ -96,7 +98,6 @@ title: TidyveRso - Cursos de R
   </ul>
 </div>
 
-<img src="/img/calendario.png"  alt="Calendario Clases">
 
 <!-- Contacto -->
 <div style="text-align: center; margin-top: 2.5rem; padding: 1.5rem; background: #f0f4f8; border-radius: 12px;">
