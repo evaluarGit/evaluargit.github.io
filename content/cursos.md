@@ -97,7 +97,7 @@ title: TidyveRso - Cursos de R
   </ul>
 </div>
 
-<img src="calendario.png"  alt="Calendario Clases">
+<img src="img/calendario.png"  alt="Calendario Clases">
 
 <!-- Contacto -->
 <div style="text-align: center; margin-top: 2.5rem; padding: 1.5rem; background: #f0f4f8; border-radius: 12px;">
