@@ -39,7 +39,7 @@ title: TidyveRso - Cursos de R
   
   <!-- Monitoreo -->
   <div style="background: #f9f9f9; border-radius: 12px; padding: 1.5rem; box-shadow: 0 2px 8px rgba(0,0,0,0.05); border-top: 4px solid #2c7da0;">
-    <h3 style="text-align: center; margin-top: 0.5rem;">Nivel 1</h3>
+    <h3 style="text-align: center; margin-top: 0.5rem;">Nivel 1: Taller Introductorio al Análisis Estadístico</h3>
     <p style="font-size: 0.95rem; line-height: 1.5;">Diseñado para quienes se inician en R y buscan consolidar las bases del análisis estadístico. Aprenderás a manipular datos, crear visualizaciones efectivas y realizar cálculos estadísticos esenciales.</p>
     <h4 style="margin-bottom: 0.5rem; font-size: 1.2rem;">Modulos:</h4>
     <h5 style="margin-bottom: 0.5rem; font-size: 1rem;">Modulo 1: Manipulación de bases de datos</h5>
@@ -76,6 +76,16 @@ title: TidyveRso - Cursos de R
       <li>Utilización de <em>ggplot2</em> para realizar visualizaciones personalizadas con rigor profesional.</li>
     </ul>
   </div>
+  
+  <div style="background: #e9ecef; border-left: 4px solid #2c7da0; padding: 1rem 1.5rem; margin: 1.5rem 0; border-radius: 0 8px 8px 0;">
+    <h3 style="font-size: 1.05rem; line-height: 1.6;">Fechas y Horarios</h3>
+    <p style="font-size: 1.05rem; line-height: 1.6;">Para garantizar una adecuada atención a cada uno de los participantes, el cupo máximo por grupo es de 15 personas, pudiendo elegir entre lunes, miércoles o sábado.<br><br>Los horarios para realizar las clases son:</p>
+    <ul style="font-size: 0.9rem; padding-left: 1.2rem;">
+      <li>Lunes y Miércoles 19:00 a 22:00 horas Bogotá o 18:00 a 21:00 horas CDMX</li>
+      <li>Sábado 09:00 a 12:00 horas Bogotá o 08:00 a 11:00 horas CDMX</li>
+    </ul>
+  </div>
+  
   
   <!-- Evaluación -->
   <div style="background: #f9f9f9; border-radius: 12px; padding: 1.5rem; box-shadow: 0 2px 8px rgba(0,0,0,0.05); border-top: 4px solid #2a9d8f;">
@@ -114,6 +124,16 @@ title: TidyveRso - Cursos de R
     <div style="background: #fef9e6; border-radius: 8px; padding: 0.8rem; margin-top: 1rem; border-left: 3px solid #e9c46a;">
           <p style="margin: 0; font-size: 0.85rem;"><strong>📋 Requisitos para el Nivel 2:</strong> Conocimientos sólidos del Nivel 1 o experiencia equivalente en manejo de <code>dplyr</code> y <code>ggplot2</code>. Manejo básico de conceptos de estadística descriptiva e inferencial.</p>
     </div>
+    
+    <div style="background: #e9ecef; border-left: 4px solid #2c7da0; padding: 1rem 1.5rem; margin: 1.5rem 0; border-radius: 0 8px 8px 0;">
+    <h3 style="font-size: 1.05rem; line-height: 1.6;">Fechas y Horarios</h3>
+    <p style="font-size: 1.05rem; line-height: 1.6;">Para garantizar una adecuada atención a cada uno de los participantes, el cupo máximo por grupo es de 15 personas, pudiendo elegir entre lunes, miércoles o sábado.<br><br>Los horarios para realizar las clases son:</p>
+    <ul style="font-size: 0.9rem; padding-left: 1.2rem;">
+      <li>Lunes y Miércoles 19:00 a 22:00 horas Bogotá o 18:00 a 21:00 horas CDMX</li>
+      <li>Sábado 09:00 a 12:00 horas Bogotá o 08:00 a 11:00 horas CDMX</li>
+    </ul>
+    </div>
+    
   </div>
 </div>
 
