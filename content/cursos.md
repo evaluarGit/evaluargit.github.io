@@ -102,8 +102,15 @@ title: TidyveRso - Cursos de R
 <!-- Contacto -->
 <div style="text-align: center; margin-top: 2.5rem; padding: 1.5rem; background: #f0f4f8; border-radius: 12px;">
   <h3 style="margin-top: 0;">📧 Contacto e Inscripciones</h3>
-  <p style="margin-bottom: 0;">Para mayor información sobre fechas, costos y proceso de inscripción, escríbenos a:</p>
-  <p style="font-size: 1.2rem; margin: 0.5rem 0 0 0;"><strong>egomez@e-valuarsas.com</strong></p>
+  <p style="margin-bottom: 0;">Si tienes dudas, te invitamos a completar esta pequeña encuesta:</p>
+  <div style="text-align: center; margin: 2rem 0;">
+  <a href="https://evaluar-apps.shinyapps.io/encuesta_taller_r/" 
+     target="_blank" 
+     style="background: #2a9d8f; color: white; padding: 12px 24px; text-decoration: none; border-radius: 8px; font-weight: bold; display: inline-block;">
+    Responder encuesta
+  </a>
+  </div>
+  <p style="font-size: 1.2rem; margin: 0.5rem 0 0 0;">O escribenos directamente al correo electrónico <strong>egomez@e-valuarsas.com</strong></p>
   <p style="margin-bottom: 0;">O al WhatsApp:</p>
   <p style="font-size: 1.2rem; margin: 0.5rem 0 0 0;"><strong>+57 3133352017</strong></p>
   <p style="margin-top: 1rem; font-style: italic; color: #555;">¡Te esperamos en el TidyveRso!</p>
