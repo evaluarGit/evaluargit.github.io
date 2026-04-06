@@ -9,7 +9,7 @@ intro: |
 
   # Nuestra historia
   
-  E-valuar es una organización creada en 2010, orientada a generar conocimiento estratégico y a fortalecer la toma de decisiones informadas a partir del análisis riguroso de información en la evaluación de políticas públicas, programas y proyectos de desarrollo e inversión.
+  E-valuar es una organización creada en 2010, orientada a generar **conocimiento estratégico** y a fortalecer la toma de decisiones informadas a partir del análisis riguroso de información en la evaluación de políticas públicas, programas y proyectos de desarrollo e inversión.
   
   A partir de la experiencia de su equipo fundador en el sector público y en organismos internacionales, E-valuar se consolidó como un referente en el diseño y aplicación de herramientas y metodologías de análisis de datos, sistematización de información, seguimiento y evaluación, con foco en mejorar el desempeño, la efectividad y la sostenibilidad de intervenciones públicas y privadas.
   
@@ -23,17 +23,17 @@ intro: |
   
   Nuestro equipo combina formación especializada y experiencia técnica para ofrecer servicios con altos estándares profesionales.
   
-  ### Hugo Navarro
+  ## Hugo Navarro
   
   <img src="hugo.jpg"  alt="Hugo Navarro" class="img-hugo">
   
   Economista, con maestría en Administración Pública de la Universidad de Michigan. Para entidades del gobierno nacional, fundaciones empresariales y organizaciones bilaterales y multilaterales, ha evaluado programas focalizados en primera infancia, niveles educativos y poblaciones vulnerables. 
   
-  Como consultor internacional ha evaluado programas de seguridad ciudadana y cumplimiento de la ley en Centroamérica y el Caribe. Es autor de tres [manuales de evaluación](https://digitallibrary.un.org/record/554457?ln=es&v=pdf) publicados por ILPES/CEPAL, ha sido instructor en cursos internacionales de evaluación y profesor de maestría en evaluación de política social.
+  Como consultor internacional ha evaluado programas de seguridad ciudadana y cumplimiento de la ley en Centroamérica y el Caribe. Es autor de tres [manuales de evaluación](https://digitallibrary.un.org/record/554457?ln=es&v=pdf) publicados por *ILPES/CEPAL*, ha sido instructor en cursos internacionales de evaluación y profesor de maestría en evaluación de política social.
   
   <hnavarro@e-valuarsas.com>
   
-  ### Esteban Gómez-Santiago
+  ## Esteban Gómez-Santiago
   
   <img src="esteban.jpg"  alt="Esteban Gómez-Santiago" class="img-esteban"> 
   
